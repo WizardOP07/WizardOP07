@@ -33,6 +33,7 @@ Website: https://mcdeveloper.in/
 
 ## Contact
 Email: finixgameroffical7@gmail.com
+
 Discord: finix_7
 
 ## 🌐 Socials:

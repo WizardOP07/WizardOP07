@@ -26,6 +26,7 @@ JavaScript • Python • Node.js • React • APIs • Automation • AI/ML
 
 ## Links
 Portfolio: https://finixdev.pro/
+
 Website: https://mcdeveloper.in/ 
 
 ---

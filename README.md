@@ -1,74 +1,21 @@
-# 👋 Hey, I'm Ajit/Wizard
+# 💫 About Me:
+# 👋 Hey, I'm Ajit/Wizard<br><br>> Founder • Minecraft Developer • Full-Stack Builder • AI Enthusiast<br><br>---<br><br>## 🚀 About Me<br>I'm **Ajit**, a **Founder** and developer focused on building powerful digital systems around **Minecraft, web platforms, and AI**.<br><br>I don’t just build projects — I build **products, systems, and ideas that don’t exist yet**.<br><br>- 🧠 Founder of MC Developer  <br>- ⚡ Minecraft Developer (Plugins, Servers, Automation)  <br>- 🌐 Full-Stack Web Developer  <br>- 🤖 AI Builder (Chatbots & Intelligent Systems)  <br><br>---<br><br>## 🏢 Founder @ MC Developer<br>I founded **MC Developer** with a vision to make server creation and creator services **simple, scalable, and powerful**.<br><br>- Built a complete **full-stack platform** from scratch  <br>- Designed a system where:<br>  - 💳 Users can purchase services  <br>  - ⚙️ Developers get automatically assigned tasks  <br>  - 📦 Orders are managed efficiently  <br>- Introduced features that **most platforms still don’t offer**<br>- - 💼 Website: https://mcdeveloper.in/ <br><br>---<br><br>## 🔥 Projects<br><br>### 🧠 AI Chatbot<br>- Built a fully functional AI chatbot  <br>- Handles intelligent conversations & automation  <br>- Designed for real-world usage  <br><br>---<br><br>### 🌐 MC Developer Platform<br>- Full-stack web application  <br>- Advanced workflow system (Client → Payment → Developer → Delivery)  <br>- Focused on automation, scalability, and user experience  <br><br>---<br><br>### 🤖 Smart AI Personal Assistant (In Progress)<br>- Currently building one of the **smartest AI personal assistants**  <br>- Focus:<br>  - Automation  <br>  - Decision-making  <br>  - Real-world execution  <br><br>---<br><br>## 🌍 Portfolio & Links<br>- 🌐 Portfolio: https://finixdev.pro/ <br>- 💼 Website: https://mcdeveloper.in/ <br><br>---<br><br>## 🎯 Vision<br>To build **high-impact systems and intelligent platforms** that give creators and businesses a massive advantage.<br><br>---<br><br>## 📫 Contact<br>- 📧 your-finixgameroffical7@gmail.com<br>- 💬 Discord: finix_7 <br><br>---<br><br>> **"I don’t just code. I build what others haven’t even imagined yet." 🚀**<br>
 
-> Founder • Minecraft Developer • Full-Stack Builder • AI Enthusiast
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/finix_7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajitx.irl) 
 
-## 🚀 About Me
-I'm **Ajit**, a **Founder** and developer focused on building powerful digital systems around **Minecraft, web platforms, and AI**.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WizardOP07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=WizardOP07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WizardOP07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I don’t just build projects — I build **products, systems, and ideas that don’t exist yet**.
-
-- 🧠 Founder of MC Developer  
-- ⚡ Minecraft Developer (Plugins, Servers, Automation)  
-- 🌐 Full-Stack Web Developer  
-- 🤖 AI Builder (Chatbots & Intelligent Systems)  
-
----
-
-## 🏢 Founder @ MC Developer
-I founded **MC Developer** with a vision to make server creation and creator services **simple, scalable, and powerful**.
-
-- Built a complete **full-stack platform** from scratch  
-- Designed a system where:
-  - 💳 Users can purchase services  
-  - ⚙️ Developers get automatically assigned tasks  
-  - 📦 Orders are managed efficiently  
-- Introduced features that **most platforms still don’t offer**
-- - 💼 Website: https://mcdeveloper.in/ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WizardOP07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=WizardOP07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 Projects
-
-### 🧠 AI Chatbot
-- Built a fully functional AI chatbot  
-- Handles intelligent conversations & automation  
-- Designed for real-world usage  
-
----
-
-### 🌐 MC Developer Platform
-- Full-stack web application  
-- Advanced workflow system (Client → Payment → Developer → Delivery)  
-- Focused on automation, scalability, and user experience  
-
----
-
-### 🤖 Smart AI Personal Assistant (In Progress)
-- Currently building one of the **smartest AI personal assistants**  
-- Focus:
-  - Automation  
-  - Decision-making  
-  - Real-world execution  
-
----
-
-## 🌍 Portfolio & Links
-- 🌐 Portfolio: https://finixdev.pro/ 
-- 💼 Website: https://mcdeveloper.in/ 
-
----
-
-## 🎯 Vision
-To build **high-impact systems and intelligent platforms** that give creators and businesses a massive advantage.
-
----
-
-## 📫 Contact
-- 📧 your-finixgameroffical7@gmail.com
-- 💬 Discord: finix_7 
-
----
-
-> **"I don’t just code. I build what others haven’t even imagined yet." 🚀**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

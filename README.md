@@ -1,6 +1,38 @@
-# 💫 About Me:
-# 👋 Hey, I'm Ajit/Wizard<br><br>> Founder • Minecraft Developer • Full-Stack Builder • AI Enthusiast<br><br>---<br><br>## 🚀 About Me<br>I'm **Ajit**, a **Founder** and developer focused on building powerful digital systems around **Minecraft, web platforms, and AI**.<br><br>I don’t just build projects — I build **products, systems, and ideas that don’t exist yet**.<br><br>- 🧠 Founder of MC Developer  <br>- ⚡ Minecraft Developer (Plugins, Servers, Automation)  <br>- 🌐 Full-Stack Web Developer  <br>- 🤖 AI Builder (Chatbots & Intelligent Systems)  <br><br>---<br><br>## 🏢 Founder @ MC Developer<br>I founded **MC Developer** with a vision to make server creation and creator services **simple, scalable, and powerful**.<br><br>- Built a complete **full-stack platform** from scratch  <br>- Designed a system where:<br>  - 💳 Users can purchase services  <br>  - ⚙️ Developers get automatically assigned tasks  <br>  - 📦 Orders are managed efficiently  <br>- Introduced features that **most platforms still don’t offer**<br>- - 💼 Website: https://mcdeveloper.in/ <br><br>---<br><br>## 🔥 Projects<br><br>### 🧠 AI Chatbot<br>- Built a fully functional AI chatbot  <br>- Handles intelligent conversations & automation  <br>- Designed for real-world usage  <br><br>---<br><br>### 🌐 MC Developer Platform<br>- Full-stack web application  <br>- Advanced workflow system (Client → Payment → Developer → Delivery)  <br>- Focused on automation, scalability, and user experience  <br><br>---<br><br>### 🤖 Smart AI Personal Assistant (In Progress)<br>- Currently building one of the **smartest AI personal assistants**  <br>- Focus:<br>  - Automation  <br>  - Decision-making  <br>  - Real-world execution  <br><br>---<br><br>## 🌍 Portfolio & Links<br>- 🌐 Portfolio: https://finixdev.pro/ <br>- 💼 Website: https://mcdeveloper.in/ <br><br>---<br><br>## 🎯 Vision<br>To build **high-impact systems and intelligent platforms** that give creators and businesses a massive advantage.<br><br>---<br><br>## 📫 Contact<br>- 📧 your-finixgameroffical7@gmail.com<br>- 💬 Discord: finix_7 <br><br>---<br><br>> **"I don’t just code. I build what others haven’t even imagined yet." 🚀**<br>
+# Ajit
 
+Founder @ MC Developer  
+Website: https://mcdeveloper.in/ 
+Full-Stack Developer • AI Builder • Minecraft Systems  
+
+---
+
+## About
+Founder focused on building scalable systems across web, Minecraft infrastructure, and AI.  
+I create products that simplify complex workflows and introduce solutions that don’t yet exist.
+
+---
+
+## Work
+- Built a full-stack platform for **MC Developer** with automated service workflows  
+- Developed AI chatbot systems for real-world applications  
+- Currently building an advanced AI personal assistant  
+
+---
+
+## Tech
+JavaScript • Python • Node.js • React • APIs • Automation • AI/ML  
+
+---
+
+## Links
+Portfolio: https://finixdev.pro/
+Website: https://mcdeveloper.in/ 
+
+---
+
+## Contact
+Email: finixgameroffical7@gmail.com
+Discord: finix_7
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/finix_7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajitx.irl) 
@@ -17,5 +49,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WizardOP07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

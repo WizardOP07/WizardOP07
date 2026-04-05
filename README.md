@@ -66,8 +66,8 @@ To build **high-impact systems and intelligent platforms** that give creators an
 ---
 
 ## 📫 Contact
-- 📧 your-email@example.com  
-- 💬 Discord: your-discord-id  
+- 📧 your-finixgameroffical7@gmail.com
+- 💬 Discord: finix_7 
 
 ---
 
